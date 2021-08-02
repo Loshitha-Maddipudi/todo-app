@@ -4,5 +4,5 @@ We have used  **SQFLITE** database to store persistant data.
 
 ## ScreenShots
 
-![Screen](assets/screenshots/screen.png)
-![Screen](assets/screenshots/alert.png)
+![Screen](Assets/screenshots/screen.png)
+![Screen](Assets/screenshots/alert.png)
